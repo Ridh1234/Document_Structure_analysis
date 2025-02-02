@@ -54,8 +54,5 @@ python train_model.py --dataset path/to/dataset --epochs 20
 - **Hridyansh Sharma**
 - **Team HELIX**
 
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
 ## Acknowledgments
 Special thanks to open-source libraries such as OpenCV, Detectron2, and PyTesseract for enabling document analysis.
